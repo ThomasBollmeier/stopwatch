@@ -1,0 +1,13 @@
+* {
+    font-family: "Arial sans-serif";
+    font-size: 120%;
+}
+
+#currtime {
+    padding-bottom: 10px;
+}
+
+button {
+    font-size: 100%;
+    border-radius: 5px;
+}
